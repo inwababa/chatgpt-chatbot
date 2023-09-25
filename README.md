@@ -1,6 +1,6 @@
-#Chatbot Using OpenAI API
+# Chatbot Using OpenAI API
 
-##Description
+## Description
 This project is a basic chatbot powered by the OpenAI API, built with Node.js. It provides a simple yet interactive conversational experience. The bot uses the OpenAI API to generate responses based on user input, creating dynamic and context-aware conversations. It is an excellent starting point for experimenting with AI-powered chatbots or incorporating chatbot functionality into your applications.
 
 ##How It Works
@@ -21,12 +21,12 @@ The bot will prompt you for input, and it will generate responses based on your 
 
 5. Conversation Context: The bot maintains context within the conversation, allowing for more natural and context-aware responses.
 
-##Dependencies
+## Dependencies
 colors: For adding color to console output.
 readline-sync: For handling user input in the console.
 dotenv: For loading environment variables from a .env file.
 openai: The OpenAI API client for Node.js.
 
-#Acknowledgments
+# Acknowledgments
 OpenAI (https://openai.com) for providing the powerful GPT-3 model and API.
 
